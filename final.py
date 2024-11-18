@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 import streamlit as st
-from serpapi.google_search_results import GoogleSearch
+from serpapi import GoogleSearch
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from gspread_dataframe import set_with_dataframe
