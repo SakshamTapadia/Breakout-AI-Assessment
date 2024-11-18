@@ -1,4 +1,6 @@
 # BreakoutAI Data Extraction App  
+Loom Video : https://www.loom.com/share/7d45459e075440e893bdfb6001c49f55?sid=2cbbb980-a176-47ed-9449-7c3297a9dba9
+
 
 ## Project Description  
 The **BreakoutAI Data Extraction App** is a Streamlit-based application designed for extracting and processing data from various sources like Google Sheets or CSV files. Using advanced search and machine learning models, the app allows users to:  
@@ -102,7 +104,7 @@ SERVICE_ACCOUNT_FILE = "path_to_your_service_account.json"
 Feel free to contribute to this project by raising issues or submitting pull requests.  
 
 ***
-Loom Video : https://www.loom.com/share/7d45459e075440e893bdfb6001c49f55?sid=2cbbb980-a176-47ed-9449-7c3297a9dba9
+
 
 **Happy Extracting!**  
 
