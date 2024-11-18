@@ -1,0 +1,11 @@
+pandas
+requests
+streamlit
+google-auth
+oauth2client
+gspread
+gspread-dataframe
+google-api-python-client
+serpapi
+os
+dotenv
