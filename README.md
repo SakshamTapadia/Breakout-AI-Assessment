@@ -95,11 +95,14 @@ SERVICE_ACCOUNT_FILE = "path_to_your_service_account.json"
 ## Notes  
 - Ensure your service account has appropriate permissions for the connected Google Sheets.  
 - Use unique and descriptive prompts to improve the quality of extracted data.  
-- For troubleshooting, use the logs provided in Streamlit for detailed error messages.  
+- For troubleshooting, use the logs in Streamlit for detailed error messages.  
 
 ---
 
 Feel free to contribute to this project by raising issues or submitting pull requests.  
+
+***
+Loom Video : https://www.loom.com/share/20ccfcb42280426ab560ed5295200f4b?sid=2ee8465c-4016-4a16-afdb-84cd7192e93a
 
 **Happy Extracting!**  
 
