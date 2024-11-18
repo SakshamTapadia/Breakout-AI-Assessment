@@ -9,7 +9,7 @@ The **BreakoutAI Data Extraction App** is a Streamlit-based application designed
 This app is ideal for automating data extraction, contextual information analysis, and streamlining workflows for researchers, analysts, and developers.  
 
 ---
-Domain : https://breakoutai-saksham.streamlit.app/
+Domain : 
 
 
 ## Setup Instructions  
@@ -104,7 +104,7 @@ SERVICE_ACCOUNT_FILE = "path_to_your_service_account.json"
 Feel free to contribute to this project by raising issues or submitting pull requests.  
 
 ***
-Loom Video : https://www.loom.com/share/20ccfcb42280426ab560ed5295200f4b?sid=2ee8465c-4016-4a16-afdb-84cd7192e93a
+Loom Video : 
 
 **Happy Extracting!**  
 
